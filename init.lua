@@ -1,0 +1,2 @@
+require("mcespo")
+print("hello")
